@@ -8,7 +8,7 @@
 
 server is live at : https://backend-2-4mmg.onrender.com/
 
-testing paths are 
-/          -> home page
-/products  -> products page
-/contact   -> contact page
+testing paths are:-
+1. /          -> home page
+2. /products  -> products page
+3. /contact   -> contact page
